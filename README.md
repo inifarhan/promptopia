@@ -12,7 +12,7 @@ In the application, you can find a Prompt made by the other user that you can us
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next-netflix-tutorial.git
+git clone https://github.com/inifarhan/promptopia.git
 ```
 
 ### Install packages
