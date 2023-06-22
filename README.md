@@ -1,6 +1,6 @@
 # Promptopia
 
-### [Live Site](https://promptopia-6v18tth4h-inifarhan.vercel.app/)
+### [Live Site](https://promptopia-one-lilac.vercel.app/)
 
 ![Promptopia](https://i.postimg.cc/hG1gsJsQ/Promptopia.png)
 
