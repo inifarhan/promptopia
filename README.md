@@ -1,8 +1,8 @@
-# Promptopia
+# [Promptopia](https://promptopia-inifarhan.vercel.app/)
 
 ![Promptopia](https://i.postimg.cc/hG1gsJsQ/Promptopia.png)
 
-### [Live Site](https://promptopia-one-lilac.vercel.app/)
+### [Live Site](https://promptopia-inifarhan.vercel.app/)
 
 ## Introduction
 Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts.
